@@ -251,6 +251,13 @@ body{
         top: unset;
         bottom: 0;
     }
+
+  
 }
 
+.slider-container {
+
+    overflow-x: hidden;
+  }
+  
 /* carrousel vertical*/
