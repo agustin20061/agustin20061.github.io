@@ -31,15 +31,7 @@ nav{
     text-align: left;
 }
 
-#titulo1Tem{
-    font-family: 'Montserrat', sans-serif;  
-    font-weight: 500;
-    color: rgb(0, 0, 0);
-    font-size: larger;
-    z-index: 3;
-    width: 50%;
-    text-align: center;
-}
+
 body{
     background: linear-gradient(to right , #2c5364 );
     width: 100%;
@@ -48,6 +40,15 @@ body{
 }
 /*carrousel de las materias*/
 @media(max-width: 500px){
+    #titulo1Tem{
+    font-family: 'Montserrat', sans-serif;  
+    font-weight: 500;
+    color: rgb(0, 0, 0);
+    font-size: larger;
+    z-index: 3;
+    width: 50%;
+    text-align: center;
+}
     .card{
         width: 100%;
         background-color: #fcfcfc;
