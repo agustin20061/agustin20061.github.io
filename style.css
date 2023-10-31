@@ -197,10 +197,9 @@ body{
         margin-right: 5px;
         
     }
-}
 
 /* carrousel vertical*/
-.vertical.carousel .carousel-item {
+    .vertical.carousel .carousel-item {
     overflow: hidden;
 }
 
@@ -244,3 +243,7 @@ body{
     top: unset;
     bottom: 0;
 }
+}
+
+
+
