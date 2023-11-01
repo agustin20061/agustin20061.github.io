@@ -7,7 +7,34 @@
     align-items: left;
     display: flex;
     margin-left: 0%;
-    width: 35%;
+    width: 30%;
+}
+.container-fluid{
+    max-height: 55px;
+}
+.v-line{
+  
+   border-left:  solid #000;
+   height:80%;
+   left: 44%;
+   margin-left: 45%;
+   margin-top: -18.5%;
+   
+}
+.calendario{
+    margin-left: 45%;
+    margin-top: -28%;
+}
+.fecha{
+    margin-left: 25%;
+    margin-top: -15%;
+}
+hr{
+    height:9vh;
+    width:0vw;
+}
+.calendario-foto{
+width: 140px;
 }
 
 .logo{   
